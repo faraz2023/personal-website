@@ -5,7 +5,8 @@
 
 title: Faraz Khoshbakhtian # Website name
 baseurl: 'https://farazkhoshbakhtian.ca/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@ 2021 Faraz Khoshbakhtian' # Footer text, e.g. '© {year} Me'
+
 
 ############################
 ## LANGUAGE
